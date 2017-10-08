@@ -4,4 +4,5 @@ I've decided on making a Java and XML based mobile application (mostly for Andro
 #### September 30, 2017
 Completed Java course on codecademy.
 
-#### October __, 2017
+#### October 7, 2017
+Switched 20 time project to learning another language. I have asked Mr. Barter for a Rosetta Stone account to do this. Until then, I am using memrise to learn Japanese.
