@@ -13,7 +13,7 @@ Switched 20 time project to learning another language. I have asked Mr. Barter f
 #### October 14, 2017
 <img src="https://i.imgur.com/N3pTy7N.png" width=100 align=right>Rosetta Stone doesn't offer Japanese; sticking with Memrise/Duolingo.  
 Established goal of 15 minutes of learning a day on Duolingo.  
-Finished goal for today (see image on right).
+Finished goal for today (see image on right).  
 Still trying to figure out Memrise.  
 
 ### October 21, 2017
