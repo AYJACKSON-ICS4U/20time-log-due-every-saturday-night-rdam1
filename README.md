@@ -17,3 +17,5 @@ Finished goal for today (see image on right).
 Still trying to figure out Memrise.  
 
 ### October 21, 2017
+Steadily progressing in learning Hiragana on Duolingo.  
+Spent time familiarizing myself with Hiragana characters by writing them down in a notebook.  
