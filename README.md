@@ -19,3 +19,5 @@ Still trying to figure out Memrise.
 ### October 21, 2017
 Steadily progressing in learning Hiragana on Duolingo.  
 Spent time familiarizing myself with Hiragana characters by writing them down in a notebook.  
+### October 28, 2017
+Re-did Hiragana 1-2.  
