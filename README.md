@@ -50,7 +50,7 @@ The new characters learned were:
 り ("ri"), ま ("ma"), た ("ta"), こ ("ko"),  
 ら ("ra"), and わ ("wa").  
 
-With this, I can now make the words:
+With this, I can now make the words:  
 よる ("yoru"; night), きる ("kiru"; wear), よむ ("yomu"; read),  
 やさい ("yasai"; vegetables), おさけ ("o sake"; sake), のむ ("nomu"; drink),  
 すき ("suki"; like), すし ("sushi"; sushi), てりやき ("teriyaki"; teriyaki),  
