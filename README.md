@@ -38,6 +38,22 @@ I guess this shows a sliver of how hard it is to commit to learning something on
 I restarted Hiragana 1, and made it through 3 lessons on Friday.  
 This involved re-doing the lessons, as well as re-writing all of the characters in my notebook.  
 I learned the characters:  
-い ("i"), ち ("chi"), に ("ni"), さ ("sa"),  
+い ("i"), ち ("chi"), に ("ni"),さ ("sa"),  
 ん ("n"), よ ("yo"), ろ ("ro"), and く ("ku").  
-Combinations of these characters give the numbers 1-6 (except 5, which I wasn't sure why).
+Combinations of these characters give the numbers 1-6 (except 5, which I wasn't sure why).  
+
+#### November 25, 2017
+I completed Hiragana 2 (5 lessons), doing the same as last week.
+The new characters learned were:  
+む ("mu"), き ("ki"), る ("ru"), や ("ya"), 
+け ("ke"), の ("no"), す ("su"), て ("te"),  
+り ("ri"), ま ("ma"), た ("ta"), こ ("ko"),  
+ら ("ra"), and わ ("wa").  
+
+With this, I can now make the words:
+よる ("yoru"; night), きる ("kiru"; wear), よむ ("yomu"; read),  
+やさい ("yasai"; vegetables), おさけ ("o sake"; sake), のむ ("nomu"; drink),  
+すき ("suki"; like), すし ("sushi"; sushi), てりやき ("teriyaki"; teriyaki),  
+あまい ("amai"; sweet), ほしい ("hoshi"; want), きたない ("kitanai"; dirty),  
+こんにちは ("kon'nichiwa"; good afternoon), さようなら ("sayonara"; goodbye),  
+and わたし ("watashi"; I).  
