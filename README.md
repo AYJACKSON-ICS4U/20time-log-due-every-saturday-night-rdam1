@@ -45,15 +45,24 @@ Combinations of these characters give the numbers 1-6 (except 5, which I wasn't 
 #### November 25, 2017
 I completed Hiragana 2 (5 lessons), doing the same as last week.
 The new characters learned were:  
-む ("mu"), き ("ki"), る ("ru"), や ("ya"), 
+む ("mu"), き ("ki"), る ("ru"), や ("ya"),  
 け ("ke"), の ("no"), す ("su"), て ("te"),  
 り ("ri"), ま ("ma"), た ("ta"), こ ("ko"),  
 ら ("ra"), and わ ("wa").  
 
 With this, I can now make the words:  
-よる ("yoru"; night), きる ("kiru"; wear), よむ ("yomu"; read),  
-やさい ("yasai"; vegetables), おさけ ("o sake"; sake), のむ ("nomu"; drink),  
-すき ("suki"; like), すし ("sushi"; sushi), てりやき ("teriyaki"; teriyaki),  
-あまい ("amai"; sweet), ほしい ("hoshi"; want), きたない ("kitanai"; dirty),  
-こんにちは ("kon'nichiwa"; good afternoon), さようなら ("sayonara"; goodbye),  
-and わたし ("watashi"; I).  
+よる ("yoru"; night),  
+きる ("kiru"; wear),  
+よむ ("yomu"; read),  
+やさい ("yasai"; vegetables),  
+おさけ ("o sake"; sake),  
+のむ ("nomu"; drink),  
+すき ("suki"; like),  
+すし ("sushi"; sushi),  
+てりやき ("teriyaki"; teriyaki),  
+あまい ("amai"; sweet),  
+ほしい ("hoshi"; want),  
+きたない ("kitanai"; dirty),  
+こんにちは ("kon'nichiwa"; good afternoon),  
+さようなら ("sayonara"; goodbye), and  
+たし ("watashi"; I).  
