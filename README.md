@@ -65,7 +65,7 @@ With this, I can now make the words:
 きたない ("kitanai"; dirty),  
 こんにちは ("kon'nichiwa"; good afternoon),  
 さようなら ("sayonara"; goodbye), and  
-たし ("watashi"; I).  
+わたし ("watashi"; I).  
 
 ### December 2, 2017
 I went back and strengthened my Hiragana 1 (as the app suggested).  
