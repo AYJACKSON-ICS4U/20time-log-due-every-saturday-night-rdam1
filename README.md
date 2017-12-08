@@ -68,12 +68,12 @@ With this, I can now make the words:
 たし ("watashi"; I).  
 
 ### December 2, 2017
-I went back and strengthened my Hiragana 1, as the app suggested,  
-then continued to work on Hiragana 3, learning the characters:
+I went back and strengthened my Hiragana 1 (as the app suggested).  
+Afterwards I finished two Hiragana 3 lessons, learning the characters:  
 ぬ ("nu"), ね ("ne"), と ("to"),  
 せ ("se"), み ("mi"), and め ("me").  
 
-I can now make the words:
+I can now make the words:  
 いぬ ("inu"; dog),  
 ねこ ("neko"; cat),  
 とり ("tori"; bird),  
