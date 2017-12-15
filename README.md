@@ -68,7 +68,7 @@ With this, I can now make the words:
 わたし ("watashi"; I).  
 
 ### December 2, 2017
-I went back and strengthened my Hiragana 1 (as the app suggested).  
+I went back and strengthened my Hiragana 1, as the app suggested.  
 Afterwards I finished two Hiragana 3 lessons, learning the characters:  
 ぬ ("nu"), ね ("ne"), と ("to"),  
 せ ("se"), み ("mi"), and め ("me").  
@@ -80,3 +80,13 @@ I can now make the words:
 め ("me"; eye),  
 せなか	("senaka"; back), and  
 みみ ("mimi"; ear).
+
+### December 9, 2017
+I went back and strengthened Hiragana 1 (again) and Hiragana 2, as the app suggested.
+Afterwards I finished one Hiragana 3 lesson, learning the characters:
+ふ ("fu"), ゆ ("yu"), and つ ("tsu").
+I can now make the words:
+なつ ("natsu"; summer), and
+ふゆ ("fuyu"; winter).
+
+### December 16, 2017
